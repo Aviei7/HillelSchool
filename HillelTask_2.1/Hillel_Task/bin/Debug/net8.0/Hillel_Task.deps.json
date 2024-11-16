@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hillel_Task/1.0.0": {
+        "runtime": {
+          "Hillel_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hillel_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

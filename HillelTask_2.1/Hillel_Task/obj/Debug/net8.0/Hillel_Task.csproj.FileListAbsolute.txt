@@ -1,0 +1,14 @@
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\bin\Debug\net8.0\Hillel_Task.exe
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\bin\Debug\net8.0\Hillel_Task.deps.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\bin\Debug\net8.0\Hillel_Task.runtimeconfig.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\bin\Debug\net8.0\Hillel_Task.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\bin\Debug\net8.0\Hillel_Task.pdb
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.AssemblyInfoInputs.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.AssemblyInfo.cs
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.csproj.CoreCompileInputs.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\refint\Hillel_Task.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.pdb
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\Hillel_Task.genruntimeconfig.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\Hillel_Task\Hillel_Task\obj\Debug\net8.0\ref\Hillel_Task.dll
