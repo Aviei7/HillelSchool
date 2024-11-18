@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HillelTask_4.2</id>
+    <version>1.0.0</version>
+    <authors>HillelTask_4.2</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="91c1628b2c28b09fb9f9395641eae95158e78cb4" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_4.2\HillelTask_4.2\bin\Debug\net8.0\HillelTask_4.2.runtimeconfig.json" target="lib\net8.0\HillelTask_4.2.runtimeconfig.json" />
+    <file src="C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_4.2\HillelTask_4.2\bin\Debug\net8.0\HillelTask_4.2.dll" target="lib\net8.0\HillelTask_4.2.dll" />
+  </files>
+</package>
