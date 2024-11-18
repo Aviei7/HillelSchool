@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\Hillel_Task\\Hillel_Task\\Hillel_Task.csproj",
+      "projectUniqueName": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_2.1\\Hillel_Task\\Hillel_Task.csproj",
       "projectName": "Hillel_Task",
-      "projectPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\Hillel_Task\\Hillel_Task\\Hillel_Task.csproj",
+      "projectPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_2.1\\Hillel_Task\\Hillel_Task.csproj",
       "packagesPath": "C:\\Users\\y.bochkovskyi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\Hillel_Task\\Hillel_Task\\obj\\",
+      "outputPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_2.1\\Hillel_Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\y.bochkovskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
