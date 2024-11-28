@@ -1,47 +1,43 @@
-﻿using System;
-using System.Numerics;
-using System.Text;
-public class ParseValue
-{
-    public void Parces(string value)
-    {
-        try
-        {
-            int.Parse(Console.ReadLine());
-        }
-        catch 
-        {
-            Console.WriteLine();
-        }
-    }
-}
-
+﻿
 class Program
 {
     static void Main()
     {
         string input;
+        byte byteNumber;
+        int intNumber;
+        long longNumber;
+        float floatNumber;
+        double doubleNumber;
+
 
         while (true)
         {
+            Console.WriteLine("Write number: ");
+            input = Console.ReadLine();
 
-            Console.WriteLine("Write your ");
-            try
+            if (byte.TryParse(input, out byteNumber))
             {
-                input = Console.ReadLine();
-                int.Parse(Console.ReadLine());
+                Console.WriteLine("byte +");
+            }
+            if (int.TryParse(input, out intNumber))
+            {
+                Console.WriteLine("Int +");
+            }
+            if (long.TryParse(input, out longNumber))
+            {
+                Console.WriteLine("long +");
+            }
+            if (float.TryParse(input, out floatNumber))
+            {
+                Console.WriteLine("float +");
+            }
+            if (double.TryParse(input, out doubleNumber))
+            {
+                Console.WriteLine("Double +");
+            }
 
-            }
-            catch (OverflowException ex)
-            {
-                long.Parse(Console.ReadLine());
-            }
-            catch (FormatException e)
-            {  
-                Console.WriteLine("Error: " + e.Message);
-            
-            }
-        };
+        }
 
     }
 }

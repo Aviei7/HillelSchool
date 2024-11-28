@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj": {}
+    "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj": {
+    "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj",
+        "projectUniqueName": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj",
         "projectName": "HillelTask 5.2",
-        "projectPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj",
+        "projectPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_5.2\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2.csproj",
         "packagesPath": "C:\\Users\\y.bochkovskyi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask 5.2\\HillelTask 5.2\\HillelTask 5.2\\obj\\",
+        "outputPath": "C:\\Users\\y.bochkovskyi\\Desktop\\HillelSchool\\HillelTask_5.2\\HillelTask 5.2\\HillelTask 5.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\y.bochkovskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
