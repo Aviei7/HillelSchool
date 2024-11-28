@@ -1,0 +1,15 @@
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\bin\Debug\net8.0\HillelTask_6.1.exe
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\bin\Debug\net8.0\HillelTask_6.1.deps.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\bin\Debug\net8.0\HillelTask_6.1.runtimeconfig.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\bin\Debug\net8.0\HillelTask_6.1.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\bin\Debug\net8.0\HillelTask_6.1.pdb
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.AssemblyInfoInputs.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.AssemblyInfo.cs
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.csproj.CoreCompileInputs.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.sourcelink.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\refint\HillelTask_6.1.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.pdb
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\HillelTask_6.1.genruntimeconfig.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask 5.2\HillelTask_6.1\HillelTask_6.1\obj\Debug\net8.0\ref\HillelTask_6.1.dll
