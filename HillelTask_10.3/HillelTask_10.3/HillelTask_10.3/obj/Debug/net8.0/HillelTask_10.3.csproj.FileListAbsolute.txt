@@ -1,0 +1,15 @@
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\bin\Debug\net8.0\HillelTask_10.3.exe
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\bin\Debug\net8.0\HillelTask_10.3.deps.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\bin\Debug\net8.0\HillelTask_10.3.runtimeconfig.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\bin\Debug\net8.0\HillelTask_10.3.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\bin\Debug\net8.0\HillelTask_10.3.pdb
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.AssemblyInfoInputs.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.AssemblyInfo.cs
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.csproj.CoreCompileInputs.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.sourcelink.json
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\refint\HillelTask_10.3.dll
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.pdb
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\HillelTask_10.3.genruntimeconfig.cache
+C:\Users\y.bochkovskyi\Desktop\HillelSchool\HillelTask_10.3\HillelTask_10.3\HillelTask_10.3\obj\Debug\net8.0\ref\HillelTask_10.3.dll
