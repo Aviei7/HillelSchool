@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HillelTask_12.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69360f09a544d64b9b545847cc40de4f7904697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8de25415e7ac67dea00b44c678e7f9bd1cbcda08")]
 [assembly: System.Reflection.AssemblyProductAttribute("HillelTask_12.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HillelTask_12.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

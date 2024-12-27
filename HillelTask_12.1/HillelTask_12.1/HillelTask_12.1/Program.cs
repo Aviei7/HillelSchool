@@ -16,27 +16,25 @@ class Program
 
         void Recursion()
         {
-            oneValue += twoValue;
-            twoValue += oneValue;
-            if (oneValue < inputNumberCount)
+            if (count < inputNumberCount/2)
             {
-                strB.Append($"{oneValue} \n");
-            }
-            else
-            {
-                return;
-            }
+                oneValue += twoValue;
 
-            if (twoValue < inputNumberCount)
-            {
-                strB.Append($"{twoValue} \n");
+                strB.Append($"{oneValue} \n");
+
+                if (count < inputNumberCount / 2 - 1)
+                {
+                    twoValue += oneValue;
+                    strB.Append($"{twoValue} \n");
+                }
+                count++;
+                Recursion();
             }
             else
             {
                 return;
             }
-            count++;
-            Recursion();
+            
         }
 
         Console.WriteLine($"Порядок фібоначчі \n{strB}");
